@@ -1,0 +1,13 @@
+HelloWorld/build/web/HelloWorldFile.jsp
+This is the path for the actual JSP file that you edit for the pages main HTML
+
+I ran it using apache netbeans, and had to install the tomcat 9 web server FIRST before attempting the tutorial
+
+https://dotnettutorials.net/lesson/jsp-using-netbeans-ide/
+This is the tutorial. When I used the tutorial it didn't say you must install tomcat separately. 
+Also when you instlal tomcat it will as you to make a username and password.
+Which you will need to use at various points during the tutorial.
+
+Finally since you installed tomcat before following the tutorial,
+when you get to the step that says select server location select the location you just installed tomcat too.
+If you used default location then the path will be the exact same as the tutorial.
